@@ -4,6 +4,6 @@ You will find nothing useful here!
 
 # Goals
 
-- Make Fizzbuzz
+<!-- - Make Fizzbuzz -->
 - Learn about pointers
 - Learn about linked lists
